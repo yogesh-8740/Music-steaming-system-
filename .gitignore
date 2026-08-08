@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+frontend/build/
+frontend/.env
+
+# Logs
+logs/
+*.log
+
+# Uploaded/generated files
+uploads/*
+storage_nodes/*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
