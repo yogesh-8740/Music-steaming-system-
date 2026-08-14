@@ -24,6 +24,3 @@ dependencies = [
     "numpy==2.1.1",
     "Pillow==10.4.0"
 ]
-
-[tool.vercel]
-entrypoint = "backend.app.main:app"
